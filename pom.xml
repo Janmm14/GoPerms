@@ -37,7 +37,7 @@
     </repositories>
 
     <build>
-        <defaultGoal>clean install</defaultGoal>
+        <defaultGoal>clean package</defaultGoal>
         <finalName>GoPerms</finalName>
     </build>
 
@@ -81,7 +81,7 @@
                 <role>developer</role>
                 <role>administrator</role>
             </roles>
-            <email>gopermspom@janmm14.de</email>
+            <email>goperms_pom@janmm14.de</email>
             <timezone>1</timezone>
             <url>https://github.com/Janmm14</url>
         </developer>

@@ -4,4 +4,6 @@ A plugin for the of minecraft pocket / bedrock edition server implementation [Go
 
 This plugin provides a permission system implementation. 
 
+[Download](https://s.janmm14.de/opmint-ci)
+
 WIP

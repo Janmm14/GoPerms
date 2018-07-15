@@ -76,7 +76,6 @@
     <developers>
         <developer>
             <id>janmm14</id>
-            <name>Jan Marian Meyer</name>
             <roles>
                 <role>developer</role>
                 <role>administrator</role>
@@ -89,7 +88,7 @@
 
     <contributors>
         <contributor>
-            <name>Jan Marian Meyer (Janmm14)</name>
+            <name>Janmm14</name>
             <roles>
                 <role>developer</role>
                 <role>administrator</role>
